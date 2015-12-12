@@ -1,1 +1,1 @@
-# digelpappvc
+Android app to rate businesses.
