@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Digelp</string>
+    <string name="string_question">Rate the Following</string>
+    <string name="string_q1">Food</string>
+    <string name="string_q2">Service</string>
+    <string name="string_q3">Ambiance</string>
+    <string name="string_submit">Submit</string>
+    <string name="business_id">101</string>
+    <string name="server_survey_url">https://put.survey.digelp.com/api/v1/survey</string>
+    <string name="action_settings">settings</string>
+</resources>
